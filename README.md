@@ -31,3 +31,10 @@ If you don't follow the above advice, Netgate's CEO will eventually [accuse you]
 I have closed all my remaining [pull](https://github.com/pfsense/FreeBSD-ports/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aclosed%20author%3Adoktornotor%20) [requests](https://github.com/pfsense/pfsense/pulls?utf8=%E2%9C%93&q=is%3Apr%20is%3Aclosed%20author%3Adoktornotor%20) - definitely to gain the advantage of no longer contributing to a project that keeps lying to its users and customers. Oh, and thanks for locking my [issue tracker](https://redmine.pfsense.org/projects/pfsense/) account. I only reported couple hundreds of issues, many of them with PRs to fix the bugs. Not a big deal either.
 
 P.S. A final advise, Jim. Reading [the FTC's advertising guideliness](https://www.ftc.gov/tips-advice/business-center/guidance/advertising-faqs-guide-small-business) and actually following them might spare you quite a bit of trouble in future. [False/misleading advertising is illegal.](https://www.ftc.gov/news-events/media-resources/truth-advertising)
+
+In case people still decide to buy products from Netgate - kindly do yourself a favor and download the factory firmware image within the first year and keep it somewhere safe. If you need to reinstall the firmware, their "unencumbered by traditional annual contracts" claims won't exactly help you with that task:
+
+***
+![No annual licensing fees...](https://github.com/doktornotor/pfsense-closedsource/blob/master/screenshot_no_annual_licensing_fees.png)
+![... except if you need to reinstall.](https://github.com/doktornotor/pfsense-closedsource/blob/master/screenshot_no_annual_licensing_fees_orly.png)
+***
