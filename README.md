@@ -23,6 +23,14 @@ __No, you cannot review the source code in full__. But of course when you put en
 
 If you don't follow the above advice, Netgate's CEO will eventually [accuse you](https://forum.pfsense.org/index.php?topic=137636.msg754001#msg754001) of being [OPNsense](https://opnsense.org/)/[Franco's](https://github.com/fichtner) agent. Even [if you have nothing in common](https://forum.pfsense.org/index.php?topic=138822.msg758739#msg758739) with [OPNsense project](https://github.com/opnsense) in fact contributed thousands of commits to pfSense®™, even if you are not competing with pfSense®™/Netgate at all, even if you are not in business of selling routers/firewalls, you still are the prime suspect, being accused of trying to [gain advantage](https://forum.pfsense.org/index.php?topic=138804.msg759343#msg759343). __Paranoia is a serious mental disorder.__
 
+While Mr. Thompson is soooo full of his pfSense®™ intellectual property and trademarks that he does not hesitate to claim any usage of "pf" or "sense" in combination with whatever else to be infringing - see [Can I sell pfSense](https://doc.pfsense.org/index.php/Can_I_sell_pfSense) [(PDF)](https://github.com/doktornotor/pfsense-closedsource/blob/master/Can%20I%20sell%20pfSense%20-%20PFSenseDocs.pdf) - or trying to teach people how to use English - see [pfSense Trademark Usage Guidelines](https://www.pfsense.org/trademarks.html) [(PDF)](https://github.com/doktornotor/pfsense-closedsource/blob/master/pfSense%20Trademark%20Usage%20Guidelines.pdf) - this is his take on other people's IP:
+
+***
+![Lets recycle the LEGO idea...](https://github.com/doktornotor/pfsense-closedsource/blob/master/Gonzo%20(a.k.a.%20SmallWorks)%20recycles%20the%20LEGO%20idea%2001.png)
+***
+
+Shockingly, LEGO decided to [sue gonzo's ass](https://dockets.justia.com/docket/connecticut/ctdce/3:2015cv00823/108470) (also see [PDF1](https://github.com/doktornotor/pfsense-closedsource/blob/master/Lego%20vs.%20Rubicon%20Communications%20-%2001.pdf), [PDF2](https://github.com/doktornotor/pfsense-closedsource/blob/master/Lego%20vs.%20Rubicon%20Communications%20-%2002.pdf)). Ooops...
+
 ### The older I get, the less patience for bullshit I have. Dear [@Jim Thompson](https://twitter.com/gonzopancho):
 ***
 ![Message for Jim...](https://github.com/doktornotor/pfsense-closedsource/blob/master/allergic-to-your-bullshit.png)
