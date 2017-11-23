@@ -10,6 +10,17 @@ This is what happens when an open-source fork gets pwned and turned into Electri
 ![Resellers - 2013](https://github.com/doktornotor/pfsense-closedsource/blob/master/history/Reseller_subscription_2013.png)
 ***
 
+# 2014
+
+***
+![Can I sell pfSense - 2014](https://github.com/doktornotor/pfsense-closedsource/blob/master/history/Can_I_sell_pfSense_2014.png)
+***
+
+***
+![Resellers - 2014](https://github.com/doktornotor/pfsense-closedsource/blob/master/history/Resellers_2014.png)
+***
+
+
 # 2016
 
 ***
