@@ -23,6 +23,16 @@ __No, you cannot review the source code in full__. But of course when you put en
 
 If you don't follow the above advice, Netgate's CEO will eventually [accuse you](https://forum.pfsense.org/index.php?topic=137636.msg754001#msg754001) of being [OPNsense](https://opnsense.org/)/[Franco's](https://github.com/fichtner) agent. Even [if you have nothing in common](https://forum.pfsense.org/index.php?topic=138822.msg758739#msg758739) with [OPNsense project](https://github.com/opnsense) in fact contributed thousands of commits to pfSense®™, even if you are not competing with pfSense®™/Netgate at all, even if you are not in business of selling routers/firewalls, you still are the prime suspect, being accused of trying to [gain advantage](https://forum.pfsense.org/index.php?topic=138804.msg759343#msg759343). __Paranoia is a serious mental disorder.__
 
+If you think it's not a big deal, think again. Here, we have an unlucky user experiencing a bug that's basically a showstopper for his chosen workflow:
+
+***
+![Hey mighty gurus, I beg you for private kernel source code copy...](https://github.com/doktornotor/pfsense-closedsource/blob/master/secret_pfsense_bugs_user_begging_for_private_kernel.png)
+***
+
+Notice how this allegedly open-source solution is in fact no better than any of the tons of proprietary alternatives out there. You cannot fix the bug yourself, you cannot have it fixed by someone you hire either, you cannot update, you are stuck. The (still) open configuration web GUI and the backend code mean nothing. It all falls apart and gets useless without access to the sources of the underlying customized FreeBSD operating system. It just won't work. Useless.
+
+Is this a fair competition? No, of course not. Netgate are gaining an illegitimate advantage from the deceptive open-source advertising. Are these lies harming users as well? Apparently, as you can see above. The truth is so uncomfortable that it needs to be hidden by all means. The access to the above ticket [has been promptly locked](https://redmine.pfsense.org/issues/8025) - and is still locked at the time of writing this (Nov. 26, 2017). The forum thread linked there vanished as well. Why? Simply because it reveals the sad truth. *The Emperor Wears No Clothes.* Users begging for access to the kernel sources of a project that keeps babbling about open-source just about everywhere - cannot get much more absurd really.
+
 While Mr. Thompson is soooo full of his pfSense®™ intellectual property and trademarks that he does not hesitate to claim any usage of "pf" or "sense" in combination with whatever else to be infringing - see [Can I sell pfSense](https://doc.pfsense.org/index.php/Can_I_sell_pfSense) [(PDF)](https://github.com/doktornotor/pfsense-closedsource/blob/master/Can%20I%20sell%20pfSense%20-%20PFSenseDocs.pdf) - or trying to teach people how to use English - see [pfSense Trademark Usage Guidelines](https://www.pfsense.org/trademarks.html) [(PDF)](https://github.com/doktornotor/pfsense-closedsource/blob/master/pfSense%20Trademark%20Usage%20Guidelines.pdf) - this is his take on other people's IP:
 
 ***
@@ -30,6 +40,9 @@ While Mr. Thompson is soooo full of his pfSense®™ intellectual property and t
 ***
 
 Shockingly, LEGO decided to [sue gonzo's ass](https://dockets.justia.com/docket/connecticut/ctdce/3:2015cv00823/108470) (also see [PDF1](https://github.com/doktornotor/pfsense-closedsource/blob/master/Lego%20vs.%20Rubicon%20Communications%20-%2001.pdf), [PDF2](https://github.com/doktornotor/pfsense-closedsource/blob/master/Lego%20vs.%20Rubicon%20Communications%20-%2002.pdf)). Ooops...
+
+Infringing on other companies' trademarks apparently was not an isolated incident for Netgate. In another stunt, they've [registered opnsense.com domain](https://github.com/doktornotor/pfsense-closedsource/blob/master/opnsense/README.md) and created a website there to discredit the [OPNsense](https://opnsense.org/) competition. Getting caught, they tried parody as defence. Shockingly, WIPO [did not buy into that nonsense](http://www.wipo.int/amc/en/domains/search/text.jsp?case=D2017-1828).
+
 
 ### The older I get, the less patience for bullshit I have. Dear [@Jim Thompson](https://twitter.com/gonzopancho):
 ***
