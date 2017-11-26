@@ -38,3 +38,12 @@ This is what happens when an open-source fork gets pwned and turned into Electri
 ***
 ![Can I sell pfSense - 2018](https://github.com/doktornotor/pfsense-closedsource/blob/master/history/Can_I_sell_pfSense_2018.jpg)
 ***
+
+# Addendum
+
+Chris Buechler, the co-founder and former project leader of pfSense [comments](https://news.ycombinator.com/item?id=13615424) on the project's direction and Jim Thompson's leadership skills:
+
+***
+![Chris Buechler on @gonzo](https://github.com/doktornotor/pfsense-closedsource/blob/master/history/chris_buechler_on_gonzo_01.png)
+![Chris Buechler on @gonzo](https://github.com/doktornotor/pfsense-closedsource/blob/master/history/chris_buechler_on_gonzo_02.png)
+***
