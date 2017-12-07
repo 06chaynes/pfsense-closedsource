@@ -47,3 +47,9 @@ Chris Buechler, the co-founder and former project leader of pfSense [comments](h
 ![Chris Buechler on @gonzo](https://github.com/doktornotor/pfsense-closedsource/blob/master/history/chris_buechler_on_gonzo_01.png)
 ![Chris Buechler on @gonzo](https://github.com/doktornotor/pfsense-closedsource/blob/master/history/chris_buechler_on_gonzo_02.png)
 ***
+
+And here's another one from Chris, this time on the false open-source claims and [unfair competition/opnsense.com affair](https://github.com/doktornotor/pfsense-closedsource/tree/master/opnsense) (which finally made it even to the [Wikipedia article on pfSense](https://en.wikipedia.org/wiki/PfSense)):
+
+***
+![Chris Buechler - more comments on the project direction](https://github.com/doktornotor/pfsense-closedsource/blob/master/history/chris_buechler_on_wipo_and_fbsd_opensource_firewalls.png)
+***
