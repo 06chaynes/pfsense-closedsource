@@ -39,7 +39,11 @@ And here's another example - [Bug #8155](https://redmine.pfsense.org/issues/8155
 ![Build your own kernel? Certainly NOT with pfSense closed source...](https://github.com/doktornotor/pfsense-closedsource/blob/master/screenshot_bug8155_rebuilding_pfsense_kernel.png)
 ***
 
-Sorry, Sir, you have been lied to and mislead by Netgate. And, as predicted, they *will* hide the bug from public view when their lies get inconveniently exposed.
+Sorry, Sir, you have been lied to and mislead by Netgate. And, as predicted, they *will* hide the bug from public view when their lies get inconveniently exposed. And no, locking that bug was absolutely no accident, and your refiled [Bug #8215](https://redmine.pfsense.org/issues/8215) will not last for long either...
+
+***
+![Closed by accident? ROTFLMAO!](https://github.com/doktornotor/pfsense-closedsource/blob/master/screenshot_bug8215_accidentally_closed_lulz.png)
+***
 
 While Mr. Thompson is soooo full of his pfSense®™ intellectual property and trademarks that he does not hesitate to claim any usage of "pf" or "sense" in combination with whatever else to be infringing - see [Can I sell pfSense](https://doc.pfsense.org/index.php/Can_I_sell_pfSense) [(PDF)](https://github.com/doktornotor/pfsense-closedsource/blob/master/Can%20I%20sell%20pfSense%20-%20PFSenseDocs.pdf) - or trying to teach people how to use English - see [pfSense Trademark Usage Guidelines](https://www.pfsense.org/trademarks.html) [(PDF)](https://github.com/doktornotor/pfsense-closedsource/blob/master/pfSense%20Trademark%20Usage%20Guidelines.pdf) - this is his take on other people's IP:
 
